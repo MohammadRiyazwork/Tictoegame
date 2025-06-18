@@ -30,3 +30,5 @@ Restart option after game ends.
 
 Score tracking (optional).
 
+![Screenshot 2025-06-18 105506](https://github.com/user-attachments/assets/1a5d1c8d-4c3f-458b-974b-0a6b55ef6d63)
+![Screenshot 2025-06-18 105451](https://github.com/user-attachments/assets/c930b52f-459c-4d06-9f20-a9441e8c86b9)
